@@ -12,7 +12,7 @@ This repository contains the code and documentation for analyzing BigMart Sales 
 - [Data Visualization](#data-visualization)
 - [Results and Insights](#results-and-insights)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ## Overview
 
@@ -91,5 +91,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Contact 
 
-GitHub link : 
-LinkedIn profile:
+For any questions or feedback regarding this project, feel free to reach out to me via:
+
+LinkedIn: linkedin.com/in/preethid28 GitHub: github.com/preethi2827
